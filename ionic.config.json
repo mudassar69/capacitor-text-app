@@ -1,0 +1,7 @@
+{
+  "name": "TextBasedApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
